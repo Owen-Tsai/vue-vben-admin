@@ -1,0 +1,1 @@
+import{c as e}from"./entry/index-5BGenAPt-1706087471176.js";import{_ as t,$ as c}from"./vue-lybwVHEG.js";import"./antd-veAxK-b_.js";const o={},s={class:"m-10 auth-page"};function a(r,_){return t(),c("div",s,"Test 角色可见")}const d=e(o,[["render",a],["__scopeId","data-v-71e78596"]]);export{d as default};
